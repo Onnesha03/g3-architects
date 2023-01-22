@@ -1,0 +1,215 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+
+}
+.nav-title{
+    font-size: 25px;
+    
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin: 50px;
+}
+
+.btn-primary {
+    color: #FFFFFF;
+    font-weight: 600px;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background-color: orange;
+    }
+
+.banner {
+    margin: 50px 150px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.container {
+    height: 500px;
+    width: 1000px;
+    display: flex;
+    
+    }
+.banner{
+    display: block;
+    left: 500px;
+    right: 500px;
+    margin: 205px 529px;
+    font-size: 10px;
+     color: black;
+}
+p{
+    display: flex;
+    justify-content: center;
+    top: 30px;
+   font-size: 15px;
+   color: cornflowerblue;
+}
+
+.container img{
+    width: 1600px;
+    height: 480px;
+    
+}
+.contain img{
+             width: 342px;
+             height: 342px;
+             }
+.cont{
+    display: flex;
+    gap: 5px;
+}
+    .conta{
+        display: flex;
+        gap: 5px;
+    }
+    h1{
+        width: 860px;
+        
+        font-size: 40px;
+        top: 20px;
+        left: 1200px;
+        color:cadetblue;
+
+    }
+    .btn-secondary{
+    height: 64px;
+    border-radius: 5px;
+    background-color: #FD6E0A;
+}
+.alternation{
+    display: flex;
+    justify-content: start;
+}
+.facts .facts-banner img{
+    width: 50px;
+    height: 50px;
+ margin-left: 40px;
+}
+.facts-num{
+    display: flex;
+position: relative;
+    left: 50px;
+    }
+.facts-title{
+     display: flex;
+     position: relative;
+     left: 15px;
+     }
+     .some{
+        display: flex;
+        justify-content: space-evenly;
+     }
+     .sectio-title{
+        display: flex;
+        justify-content: center;
+     }
+     .alter{
+        display: flex;
+        justify-content: center;
+     }
+     .variations{
+        display: flex;
+        justify-content: space-evenly;
+     }
+     .footer{
+        display: flex;
+        justify-content: center;
+        background-color: burlywood;
+        width: 100%;
+        height: 10%;
+        top: 35px;
+        margin-top: 35px;
+        margin-bottom: 25px;
+     }
+     .three{
+         font-size: 20px;
+     }
+     .five{
+        font-size: 20px;
+     }
+     .seven{
+        font-size: 20px;
+     }
+     .nine{
+        font-size: 20px;
+     }
+        .two{
+        style:none;
+     }
+     .facts-banner{
+        display: flex;
+     }
+     
+     .text-secondary{
+        color: grey;
+     }
+     .text-primary{
+        color: #FD6E0A;
+     }
+     .blog{
+        display: flex;
+        }
+       
+     .inject{
+        font-size: 15px;
+     }
+    .inject{
+        align-items: flex-end;
+           
+         }
+         .btn-primary {
+            color: #FFFFFF;
+            font-weight: 600px;
+            font-size: 20px;
+            border: 0;
+            padding: 18px 35px;
+            height: 64px;
+            border-radius: 5px;
+            background-color: orange;
+            margin-left: 20px;
+            }
+            
+                
+            
+            .blog-title{
+                width: 468px;
+                height: 106px;
+                margin-left: 20px;
+                margin-top: 0;
+                font-size: 45px;
+            
+            }
+            .lpsum{
+                margin-left: 20px;
+                margin-bottom: 0px;
+                margin-top: 0;
+            }
+            .thum{
+                margin-left: 20px;
+                margin-top: 0;
+            }
+            .even{
+                margin-left: 20px;
+                margin-bottom: 0;
+                margin-top: 0;
+            }
+            .content{
+                display: flex;
+            }
+            
+             .parent-container{
+                display: flex;
+             }
